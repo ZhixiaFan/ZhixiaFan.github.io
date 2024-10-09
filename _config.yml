@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Research scientist in TikTok, Data-Speech Dept. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Zhixia Fan"
+description              : "Searching for a Ph.D. position currently"
+repository               : "ZhixiaFan/ZhixiaFan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : # e.g., G-SWFCX99KQZ
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Singapore"
+  name             : "Zhixia Fan（樊志霞）"
+  avatar           : "images/zx_photo.jpeg"
+  bio              : "M.Eng, NCEPU"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=gV5h0jMAAAAJ"
+  email            : "zhixia.fan.19@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Zhixia-Fan"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0000-0001-9930-508X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
