@@ -22,5 +22,3 @@ Please find my CV [here](../files/Zhixia_Fan_CV.pdf "Zhixia Fan's CV").
 {% include_relative includes/ew_exper.md %}
 
 {% include_relative includes/others.md %}
-
-{% include_relative includes/vs.md %}
