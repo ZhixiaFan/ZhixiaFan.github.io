@@ -5,6 +5,7 @@
 - Information Fusion, Elsevier <img src='./images/Elsevier.png' style='width: 4em;'>, IF = 14.7
 - IEEE Internet of Things Journal, IEEE <img src='./images/IEEE.png' style='width: 4em;'>, IF = 8.2
 - Knowledge-Based Systems, Elsevier <img src='./images/Elsevier.png' style='width: 4em;'>, IF = 7.2
+- Nonlinear Dynamics, Springer <img src='./images/springer.png' style='width: 4em;'>, IF = 5.2
 
 ## 🎬 Participated in research projects
 
