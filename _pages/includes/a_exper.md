@@ -6,6 +6,8 @@
 - IEEE Internet of Things Journal, IEEE <img src='./images/IEEE.png' style='width: 4em;'>, IF = 8.2
 - Knowledge-Based Systems, Elsevier <img src='./images/Elsevier.png' style='width: 4em;'>, IF = 7.2
 - Nonlinear Dynamics, Springer <img src='./images/springer.png' style='width: 4em;'>, IF = 5.2
+- Scientific Reports, Springer <img src='./images/springer.png' style='width: 4em;'>, IF = 3.8
+- Measurement Science and Technology, IOPscience <img src='./images/iop.png' style='width: 4em;'>, IF = 2.7
 
 ## 🎬 Participated in research projects
 
